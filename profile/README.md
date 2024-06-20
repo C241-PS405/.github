@@ -1,5 +1,5 @@
-## Derm.AI
-# Dermatologist AI Assistant
+# Derm.AI
+## Dermatologist AI Assistant
 
 <!--
 
