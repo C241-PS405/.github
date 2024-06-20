@@ -1,0 +1,2 @@
+# .github
+Dermatologist AI Assistant
