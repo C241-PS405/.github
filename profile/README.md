@@ -1,7 +1,10 @@
+
 # Derm.AI : Dermatologist AI Assistant
 ## Product-based Capstone Project by C241-PS405
 
 
+### Background
+We want to demolish facial health problem
 ### Features
 
 - Facial health problem detection
@@ -12,6 +15,11 @@
 - [Tech Demo]()
 - [Presentation Video]()
 
+
+### Repositories
+- [Mobile Development](https://github.com/C241-PS405/derm-ai-md)
+- [Cloud Computing](https://github.com/C241-PS405/derm-ai-cc)
+- [Machine Learning](https://github.com/C241-PS405/derm-ai-ml)
 
 ### Authors
 - [M007D4KY1724 - I Gusti Agung Krisna Satya Wikrama - Universitas Dian Nuswantoro - Machine Learning](https://github.com/orgs/C241-PS405/people/krisssssssssssssssssnaaaaaaaaaaaaaaaaa)
@@ -24,15 +32,3 @@
 
 
 
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
