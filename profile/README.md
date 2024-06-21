@@ -2,11 +2,9 @@
 # Derm.AI : Dermatologist AI Assistant
 ## Product-based Capstone Project by C241-PS405
 
-
-### Background
-We want to demolish facial health problem
+### What's Derm.AI?
+Dermatalogist AI or Derm.AI is an app to assist people in taking care of their skin problem conviniently. 
 ### Features
-
 - Facial health problem detection
 - Skincare recommendation
 - Login and register
@@ -22,13 +20,12 @@ We want to demolish facial health problem
 - [Machine Learning](https://github.com/C241-PS405/derm-ai-ml)
 
 ### Authors
-- [M007D4KY1724 - I Gusti Agung Krisna Satya Wikrama - Universitas Dian Nuswantoro - Machine Learning](https://github.com/orgs/C241-PS405/people/krisssssssssssssssssnaaaaaaaaaaaaaaaaa)
-- [M007D4KY1759 - Bima Bayu Putra - Universitas Dian Nuswantoro - Machine Learning](https://github.com/orgs/C241-PS405/people/wawonderful)
-- [M298D4KY1969 - Ali Siddiq Al Farizi Siregar - Universitas Pendidikan Ganesha - Machine Learning](https://github.com/orgs/C241-PS405/people/alisiddiqalfarizisiregar)
-- [C013D4KY1131 - Irfan Nugroho - Universitas Terbuka - Cloud Computing](https://github.com/orgs/C241-PS405/people/irfannugroho)
-- [C007D4KY1317 - Ibnu Kenza Adi Nugroho - Universitas Dian Nuswantoro](https://github.com/orgs/C241-PS405/people/ZaKensz)
-- [A179D4KX3404 - Nur Fitriyani Pangastuti - Universitas Ahmad Dahlan - Mobile Development](https://github.com/orgs/C241-PS405/people/nurfp21)
-- [A179D4KX3524 - Vitri Septia Kirani - Universitas Ahmad Dahlan - Mobile Development](https://github.com/orgs/C241-PS405/people/vskirani)
-
-
-
+|          Nama         | Bangkit-ID |       Path       |
+|:---------------------:|:----------:|:----------------:|
+|  I Gusti Agung Krisna Satya Wikrama  |  M007D4KY1724  | Machine Learning |
+|  Bima Bayu Putra  |  M007D4KY1759  | Machine Learning |
+|  Ali Siddiq Al Farizi Siregar  |  M298D4KY1969  | Machine Learning |
+|  Irfan Nugroho  |  C013D4KY1131  | Cloud Computing |
+|  Ibnu Kenza Adi Nugroho  |  C007D4KY1317  | Cloud Computing |
+|  Nur Fitriyani Pangastuti  |  A179D4KX3404  | Mobile Development |
+|  Vitri Septia Kirani  |  A179D4KX3524  | Mobile Development |
